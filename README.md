@@ -53,4 +53,5 @@ add new user
 
 configure sla
 
+![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/7494fcfa-ce95-4b37-8637-5df3e5e9752d)
 
