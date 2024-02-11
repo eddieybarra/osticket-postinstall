@@ -30,7 +30,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 Adding main admin role
-![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/7081f6a7-494f-4383-bc29-d39eca653565).
+
+![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/3b0788fb-4880-4355-b8be-ad694c81db7b)
 
 add new department
 
