@@ -47,5 +47,10 @@ add new agent
 
 ![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/a898305c-cf8c-4a92-aa49-b61e19dcc831)
 
+add new user
+
+![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/6765283a-9d54-45e0-8f12-338c03c4998e)
+
+configure sla
 
 
