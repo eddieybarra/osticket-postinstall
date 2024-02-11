@@ -55,3 +55,7 @@ configure sla
 
 ![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/7494fcfa-ce95-4b37-8637-5df3e5e9752d)
 
+![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/dfaed891-d678-4163-ac4c-7ca395d0df99)
+
+
+configure help topics
