@@ -43,6 +43,9 @@ add new team
 ![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/faf1426b-7b6f-49cb-8cf0-2890be9b6673)
 
 
+add new agent
+
+![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/a898305c-cf8c-4a92-aa49-b61e19dcc831)
 
 
 
