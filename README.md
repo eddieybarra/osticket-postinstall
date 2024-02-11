@@ -35,7 +35,11 @@ Adding main admin role
 
 add new department
 
+![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/3ce0abf9-1770-4ab9-8a79-4174729601b3)
+
+
 add new team
+
 ![image](https://github.com/eddieybarra/osticket-postinstall/assets/18490891/faf1426b-7b6f-49cb-8cf0-2890be9b6673)
 
 
